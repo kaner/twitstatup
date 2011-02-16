@@ -1,7 +1,7 @@
 Note that you need to set up your Twitter account to accept 3rd party apps
 to post to it in your settings. There you will receive a consumer key and a
 consumer secret from Twitter. Use those to fill in CONSUMER_KEY and 
-CONSUMER_SECRET below.
+CONSUMER_SECRET in twitstatup.py.
 
 The next thing you need is your token key and token secret. The easiest way
 to get those is to follow the 'three legged oauth' here:
@@ -11,8 +11,8 @@ to get those is to follow the 'three legged oauth' here:
 Also use this URL to fetch the python-oauth2 library. You need it to run this
 script.
 
-Fill them into TOKEN_KEY and TOKEN_SECRET below. Now you're all set to post
-on Twitter via this script. Have fun!
+Fill them into TOKEN_KEY and TOKEN_SECRET in twitstatup.py. Now you're all set 
+to post on Twitter. Have fun!
 
 --
 Bugreports to: Christian Fromme <kaner@strace.org>
