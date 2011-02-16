@@ -8,6 +8,9 @@ to get those is to follow the 'three legged oauth' here:
 
           https://github.com/simplegeo/python-oauth2
 
+Also use this URL to fetch the python-oauth2 library. You need it to run this
+script.
+
 Fill them into TOKEN_KEY and TOKEN_SECRET below. Now you're all set to post
 on Twitter via this script. Have fun!
 
